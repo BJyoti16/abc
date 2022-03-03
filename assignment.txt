@@ -1,0 +1,21 @@
+Static and Dynamic type language:
+
+Statically typed languages performs type checking at compile time whereas dynamically typed languages
+performs type checking during runtime. If a script written in a statically typed language contains errors then 
+it will fail to compile until the errors have been fixed. example: Java, C. But in dynamically typed 
+languages type check is done during run time. example: Javascript
+
+Strongly and Weakly type language:
+
+Strongly type language are those in which we have to explicitly specify types of variables and objects. example: C, Java. 
+Wheresas in Weakly type language we do not need to specify the type of variables thus provides more flexiblity to the 
+code. Example: Javascript, Python.
+
+Compiler and Interpreter:
+
+Compiler is a language processor which converts the High level language into machine level language at once.example: C, C++, Java
+Interpreter is also a language processor which converts the High level language into Machine level language but Line byLine. 
+
+Transpiler:
+Transpilers or source-to-source compilers are used to convert one programming  language into corresponding another 
+programming language.example: Typescript transpiler converts Typescript code to JavaScript. 
