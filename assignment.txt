@@ -18,4 +18,4 @@ Interpreter is also a language processor which converts the High level language 
 
 Transpiler:
 Transpilers or source-to-source compilers are used to convert one programming  language into corresponding another 
-programming language.example: Typescript transpiler converts Typescript code to JavaScript. 
+programming language. for example: Typescript transpiler converts Typescript code to JavaScript. 
